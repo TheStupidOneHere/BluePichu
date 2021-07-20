@@ -1,0 +1,26 @@
+/* Avatar zoom on hover / Special thanks to Nao Tomori#1166 */
+.avatar-37jOim:hover {
+    transform:scale(1.6);
+    border:solid;
+    border-radius:5px !important;
+    background-color:rgb(58, 58, 101) !important;
+    border-color:rgb(58, 58, 101) !Important;
+    border-width:0.04cm;
+    margin-top:-25%;
+    margin-left:30%;
+    transition:250ms;
+}
+.avatar-37jOim {
+    transform:scale(1);
+    transition:250ms;
+}
+.avatarHintInner-1TvA8u {
+    opacity:0;
+}
+.avatar-37jOim:hover .avatarHint-2A3RNb > foreignObject {
+    mask: none !important;
+} 
+.avatar-37jOim:hover .mask-1l8v16 > foreignObject { 
+    mask: none !important; 
+    border-radius:5px;
+}
