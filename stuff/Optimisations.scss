@@ -1,0 +1,19 @@
+/*Matches join server to the theme color*/
+.circleIconButton-1QV--U {color: #5a76d4 !important}
+.circleIconButton-1QV--U {background-color: transparent !important}
+.circleIconButton-1QV--U:hover {background-color: #1E2233 !important}
+
+/*Messages will slide in*/
+@keyframes slide-up {
+    0% {
+        opacity: 0;
+        transform: translateX(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+.message-2qnXI6 {
+  animation: slide-up 0.4s ease;
+}
