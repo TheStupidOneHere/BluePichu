@@ -4,7 +4,7 @@ I do not take credit for any of the code. All I have done is edit the color valu
 
 To install this theme, open cmd and execute the command `cd powercord/src/powercord/themes && git clone https://github.com/TheStupidOneHere/BluePichu`
 
-To update to the latest version, `cd powercord/src/powercord/themes && git pull`
+To update to the latest version, `cd powercord/src/powercord/themes/BluePichu && git pull`
 
 Again, gentle reminder, none of the code is mine. All credit goes to NYRI4 and the powercord discord
 Have a good day!
